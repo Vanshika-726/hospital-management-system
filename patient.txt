@@ -1,0 +1,7 @@
+Patient admission details
+
+Patient name :- Vanshika
+
+Admission status :- admitted
+
+Room :- 193
